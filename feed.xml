@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio Briefing</title>
+    <link>https://justai-design.github.io/my-briefings/</link>
+    <atom:link href="https://justai-design.github.io/my-briefings/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>AI and science news, dossiers, debates and long reads, written and voiced with Gemini.</description>
+    <language>en</language>
+    <itunes:author>Daily Audio Briefing</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://justai-design.github.io/my-briefings/cover.png"/>
+    <image><url>https://justai-design.github.io/my-briefings/cover.png</url><title>Audio Briefing</title><link>https://justai-design.github.io/my-briefings/</link></image>
+
+  </channel>
+</rss>
