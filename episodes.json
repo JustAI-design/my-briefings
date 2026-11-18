@@ -1,3 +1,14 @@
 {
- "episodes": []
+ "episodes": [
+  {
+   "id": "ep_1794174854000",
+   "t": 1794174854000,
+   "title": "Sunday 8 November: Dossier: Can Artificial Intelligence Know Its Own Thoughts",
+   "description": "<p>Dossier: Can Artificial Intelligence Know Its Own Thoughts</p>",
+   "file": "episodes/ep_1794174854000.mp3",
+   "size": 4519104,
+   "type": "audio/mpeg",
+   "duration": 564.8399999999999
+  }
+ ]
 }
