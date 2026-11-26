@@ -59,6 +59,16 @@
    "size": 8166336,
    "type": "audio/mpeg",
    "duration": 1020.7400000000002
+  },
+  {
+   "id": "ep_1795676963669",
+   "t": 1795676963669,
+   "title": "Thursday 26 November: Long read: Automated Science in the Agent AlphaXiv Ecosystem",
+   "description": "<p>Long read: Automated Science in the Agent AlphaXiv Ecosystem</p>",
+   "file": "episodes/ep_1795676963669.mp3",
+   "size": 3697920,
+   "type": "audio/mpeg",
+   "duration": 462.17000000000013
   }
  ]
 }
